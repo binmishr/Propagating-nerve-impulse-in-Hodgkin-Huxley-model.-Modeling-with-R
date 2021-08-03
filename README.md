@@ -1,0 +1,1 @@
+# Propagating-nerve-impulse-in-Hodgkin-Huxley-model.-Modeling-with-R
